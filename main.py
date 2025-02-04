@@ -7,7 +7,7 @@ from sklearn.linear_model import LinearRegression
 #data
 studie_uren = np.array([1, 2, 3, 4, 5]). reshape(-1, 1)
 oefentoetsen = np.array([2, 3, 3, 4, 5]). reshape(-1, 1)
-motivation = np.array([0.2, 0.2, 0.2, 0.2, 0.2]). reshape(-1, 1)
+motivation = np.array([0.2, 0.2, 0.2, 0.2, 0.2]). reshape(-1, 0.2)
 cijfers = np.array([3, 4.5, 5, 6.5, 8])
 
 # Stap 4
